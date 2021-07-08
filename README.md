@@ -1,6 +1,6 @@
 I’m @Ooinn
 
-I’m currently learning HTML and Javascript
+I’m currently learning HTML and Javascript on freeCodeCamp: https://www.freecodecamp.org/absurd
 
 How to reach me: druids@tutanota.com
 
